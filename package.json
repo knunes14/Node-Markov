@@ -1,0 +1,19 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "node-markov exercise",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/knunes14/Node-Markov.git"
+  },
+  "author": "Keegan Nunes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knunes14/Node-Markov/issues"
+  },
+  "homepage": "https://github.com/knunes14/Node-Markov#readme"
+}
